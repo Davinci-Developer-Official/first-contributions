@@ -953,4 +953,5 @@ Ti Kyi Khant
 - [Gilbert Adikankwu](https://github.com/functionguyy)
 - [Gambhir Sharma](https://github.com/gambhirsharma)
 - [Dalton-Leyian +254](https://github.com/Dalton-47)
+- Thomas Mithamo (KE){https://github.com/Davinci-Developer-Official}
 <!-- prettier-ignore-end -->
